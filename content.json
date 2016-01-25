@@ -1,27 +1,17 @@
 [{
-	"preload": [{
-		"backgroundImg":"../images/1920x1080_wallpaper.jpg",
+	"preload": {
+		"backgroundImg": "../images/1920x1080_wallpaper.jpg",
 		"video": "vid/sampleMassEffect.mp4",
-		"bgMusic":"./sound/bgmusic.mp3"
-	}],
-	"lastName": "Doe"
-}, {
-	"firstName": "Anna",
-	"lastName": "Smith"
-}, {
-	"intro": [{
-		"h1": "Mass Effect: Andromeda"
-	}, {
-		"p": "Embark on one last adventure with your team in Mass Effect: Andromeda. When a sinister conspiracy targets Commander Shepard, you and your team must uncover the truth, through battles and intrigue that range from the glamour of the Citadel's Wards to the top-secret Council Archives. Uncover the truth and fight alongside your squad – as well as the cast from the original Mass Effect and Mass Effect 2, including Urdnot Wrex!  When the adventure is over, reconnect with your favorite characters from the Mass Effect Trilogy, try your luck at the Citadel's Silver Coast Casino, blow off steam in the Armax Combat Arena, or explore and furnish Shepard's own living quarters on the Citadel."
-	},{
+		"bgMusic": "./sound/bgmusic.mp3"
+	},
+	"intro": {
+		"h1": "Mass Effect: Andromeda",
+		"p": "Embark on one last adventure with your team in Mass Effect: Andromeda. When a sinister conspiracy targets Commander Shepard, you and your team must uncover the truth, through battles and intrigue that range from the glamour of the Citadel's Wards to the top-secret Council Archives. Uncover the truth and fight alongside your squad – as well as the cast from the original Mass Effect and Mass Effect 2, including Urdnot Wrex!  When the adventure is over, reconnect with your favorite characters from the Mass Effect Trilogy, try your luck at the Citadel's Silver Coast Casino, blow off steam in the Armax Combat Arena, or explore and furnish Shepard's own living quarters on the Citadel.",
 		"button": "Terms of Service"
-	}]
-}, {
-	"ToS": [{
-		"h1": "Terms of Service"
-	}, {
-		"p": "Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern [business name]'s relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website. The term '[business name]' or 'us' or 'we' refers to the owner of the website whose registered office is [address]. Our company registration number is [company registration number and place of registration]. The term 'you' refers to the user or viewer of our website."
-	}, {
+	},
+	"ToS": {
+		"h1": "Terms of Service",
+		"p": "Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern [business name]'s relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website. The term '[business name]' or 'us' or 'we' refers to the owner of the website whose registered office is [address]. Our company registration number is [company registration number and place of registration]. The term 'you' refers to the user or viewer of our website.",
 		"button": "Back"
-	}]
+	}
 }]
