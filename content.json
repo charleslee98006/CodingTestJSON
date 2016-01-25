@@ -1,8 +1,10 @@
 [{
 	"preload": {
+		"title": "Mass Effect: Andromeda",
 		"backgroundImg": "./images/1920x1080_wallpaper.jpg",
 		"video": "vid/sampleMassEffect.mp4",
-		"bgMusic": "./sound/bgmusic.mp3"
+		"bgMusic": "./sound/bgmusic.mp3",
+		"skip":"Skip"
 	},
 	"intro": {
 		"h1": "Mass Effect: Andromeda",
